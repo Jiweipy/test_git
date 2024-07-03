@@ -1,2 +1,2 @@
 print(2)
-print(222)
+print(0)
